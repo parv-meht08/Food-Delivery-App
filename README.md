@@ -76,7 +76,7 @@ bash
 
 Copy code
 
-git clone https://github.com/parv-meht08/Project/tree/main/Full%20Stack%20Web%20Dev%20Projects/Food%20Delivery%20App
+git clone https://github.com/parv-meht08/Food-Delivery-App.git
 
 <b>Navigate to the project directory 📂</b>
 
